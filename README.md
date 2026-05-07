@@ -1,1 +1,3 @@
 # DataEncoding_G02_Urban-Safety
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
