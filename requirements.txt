@@ -7,3 +7,5 @@ seaborn
 shapely
 scikit-learn
 jupyter
+rasterio
+rasterstats
